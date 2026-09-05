@@ -1,10 +1,9 @@
-<h1 align="center">👋 Hey, I'm Alan</h1>
-
-<h3 align="center">Developer & Cybersecurity Enthusiast</h3>
-
-<p align="center">
-  <i>«I like turning ideas into things that actually work.»</i>
-</p>
+<div align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=alitan999&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172546514%3Fv%3D4" alt="alitan999 hero visual" />
+  
+  <h3>Developer & Cybersecurity Enthusiast</h3>
+  <p><i>«I like turning ideas into things that actually work.»</i></p>
+</div>
 
 I'm Alan Servin, a developer who enjoys building useful things, experimenting with technology, and understanding how things work under the hood.
 
@@ -20,8 +19,6 @@ Currently exploring the intersection between software development, cybersecurity
 *   🌐 **Connecting things** → Networking
 *   🧪 **Learning things** → Always experimenting
 
-> I believe the best way to learn technology is to build, break, understand, and build again.
-
 ---
 
 ### 🛠️ Tech I use
@@ -33,24 +30,20 @@ Currently exploring the intersection between software development, cybersecurity
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Frontend & Frameworks**<br>
+**Frontend, Cloud & Hardware**<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**Cloud, Backend & Tools**<br>
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Exploring & Hardware**<br>
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
-### 🚀 Things I'm building
+### 🚀 Selected Work
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=alitan999&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172546514%3Fv%3D4" alt="alitan999 highlights visual" />
+</p>
 
 *   ⚡ **Quick Price** — *Hybrid Inventory & Price Management App* <br>
     A hybrid mobile application built with a native Android (Kotlin) container and a high-performance web UI, designed to streamline real-time inventory management. <br>
@@ -59,19 +52,6 @@ Currently exploring the intersection between software development, cybersecurity
     *   **Real-Time Sync:** Utilizes Firestore NoSQL to instantly reflect database changes across all devices sharing a unique `storeId` access code.
     *   **Smart Barcode Scanning:** Integrated `html5-qrcode` engine leveraging native camera permissions for fast 1D/2D code detection.
     *   **Modern UI/UX:** Built with Tailwind CSS, featuring a premium glassmorphism design, animated aurora backgrounds, and staggered micro-animations.
-    *   **Architecture:** Hybrid SPA hosted inside an Android WebView, combining native lifecycle management with dynamic web deployment.
-
----
-
-### 🌎 What I'm up to
-
-- 🔨 Building new web projects
-- 🔐 Learning cybersecurity
-- 🌐 Going deeper into networking
-- ☁️ Exploring cloud technologies
-- 🧑‍💻 Contributing to developer communities
-- 🌱 Discovering interesting open-source projects
-- 🚀 Looking for hackathons, events and opportunities to learn
 
 ---
 
@@ -87,6 +67,10 @@ And sometimes it means spending way too many hours trying to fix one stupid bug.
 ---
 
 ### 📫 Let's connect
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=alitan999&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172546514%3Fv%3D4" alt="alitan999 social visual" />
+</p>
 
 Got an idea? Want to collaborate? Found something interesting?<br>
 I'm always down to build something cool.
