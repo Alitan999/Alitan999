@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Alan</h1>
 
-<h3 align="center">Developer & Cybersecurity Enthusiast from Guanajuato, Mexico 🇲🇽</h3>
+<h3 align="center">Developer & Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <i>«I like turning ideas into things that actually work.»</i>
