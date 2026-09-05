@@ -52,13 +52,14 @@ Currently exploring the intersection between software development, cybersecurity
 
 ### 🚀 Things I'm building
 
-*   ⚡ **Quick Price** — *Inventory & Price Management App* <br>
-    An application designed to streamline price lookups and inventory management for businesses. <br>
-    **Key Features:**
-    *   **Team Synchronization:** Shared store catalogs managed through unique 6-character access codes.
-    *   **Smart Lookup:** Real-time search and built-in barcode scanning using the device camera.
-    *   **Inventory Management:** Full CRUD control to easily add, edit, or delete products and prices.
-    *   **Authentication:** Secure login and registration for store owners and employees.
+*   ⚡ **Quick Price** — *Hybrid Inventory & Price Management App* <br>
+    A hybrid mobile application built with a native Android (Kotlin) container and a high-performance web UI, designed to streamline real-time inventory management. <br>
+    **Tech Stack:** HTML5, JavaScript (ES6+), Tailwind CSS, Android (Kotlin), Firebase (Auth & Firestore). <br>
+    **Key Highlights:**
+    *   **Real-Time Sync:** Utilizes Firestore NoSQL to instantly reflect database changes across all devices sharing a unique `storeId` access code.
+    *   **Smart Barcode Scanning:** Integrated `html5-qrcode` engine leveraging native camera permissions for fast 1D/2D code detection.
+    *   **Modern UI/UX:** Built with Tailwind CSS, featuring a premium glassmorphism design, animated aurora backgrounds, and staggered micro-animations.
+    *   **Architecture:** Hybrid SPA hosted inside an Android WebView, combining native lifecycle management with dynamic web deployment.
 
 ---
 
