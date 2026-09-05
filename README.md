@@ -52,14 +52,13 @@ Currently exploring the intersection between software development, cybersecurity
 
 ### 🚀 Things I'm building
 
-*   ⚡ **QuickPrice** — *Inventory & price management* <br>
-    An application designed to make inventory management easier, including barcode scanning and product management.
-
-*   🧬 **LifeOS** — *A personal operating system concept* <br>
-    An experimental idea focused on wellbeing, personal data and smarter everyday decisions. The goal is to explore what happens when technology becomes a more intelligent layer between you and your everyday life.
-
-*   🧼 **Kinetic POS** — *Point-of-sale system for a car wash* <br>
-    A lightweight POS concept designed for a local car wash, focused on keeping operations simple and practical.
+*   ⚡ **Quick Price** — *Inventory & Price Management App* <br>
+    An application designed to streamline price lookups and inventory management for businesses. <br>
+    **Key Features:**
+    *   **Team Synchronization:** Shared store catalogs managed through unique 6-character access codes.
+    *   **Smart Lookup:** Real-time search and built-in barcode scanning using the device camera.
+    *   **Inventory Management:** Full CRUD control to easily add, edit, or delete products and prices.
+    *   **Authentication:** Secure login and registration for store owners and employees.
 
 ---
 
