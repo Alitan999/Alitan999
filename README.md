@@ -91,12 +91,8 @@ And sometimes it means spending way too many hours trying to fix one stupid bug.
 Got an idea? Want to collaborate? Found something interesting?<br>
 I'm always down to build something cool.
 
-<a href="https://github.com/Alitan999">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="mailto:helloalitan.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alitan999)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helloalitan.dev@gmail.com)
 
 ---
 
