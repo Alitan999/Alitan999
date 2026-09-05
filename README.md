@@ -99,8 +99,4 @@ I'm always down to build something cool.
 <p align="center">
   ✦ Build · Break · Learn · Repeat ✦ <br>
   Built with curiosity, code & too much coffee ☕
-  <br><br>
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" height="25">
-  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="25">
-  <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" height="25">
 </p>
