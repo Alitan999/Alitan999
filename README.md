@@ -46,7 +46,7 @@ Currently exploring the intersection between software development, cybersecurity
 </p>
 
 *   ⚡ **Quick Price** — *Hybrid Inventory & Price Management App* <br>
-    A hybrid mobile application built with a native Android (Kotlin) container and a high-performance web UI, designed to streamline real-time inventory management. <br>
+    Quick Price is an agile, collaborative price checker. Skip complex POS systems; just log the barcode, name, and price. Owners create a store, employees join via an access code, and data syncs in real-time. Search items by name or camera scan to get fast information instantly. <br><br>
     **Tech Stack:** HTML5, JavaScript (ES6+), Tailwind CSS, Android (Kotlin), Firebase (Auth & Firestore). <br>
     **Key Highlights:**
     *   **Real-Time Sync:** Utilizes Firestore NoSQL to instantly reflect database changes across all devices sharing a unique `storeId` access code.
